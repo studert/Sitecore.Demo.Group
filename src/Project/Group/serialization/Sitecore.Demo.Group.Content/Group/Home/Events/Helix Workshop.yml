@@ -1,0 +1,17 @@
+﻿---
+ID: "561412b9-911b-41f4-ad5c-8e080b4fef16"
+Parent: "29e1c8ee-f483-4f97-80cb-10bcc0ade29e"
+Template: "d8f81039-14db-4820-91ab-61f02046d848"
+Path: /sitecore/content/Group/Home/Events/Helix Workshop
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190311T122132Z
+    - ID: "61bf64e9-9b12-40d7-94e5-ebd7e14f567b"
+      Hint: Event Title
+      Value: Helix Workshop
