@@ -22,6 +22,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configurat
 		src\Project\Group\code\App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config = src\Project\Group\code\App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{517E49C4-A000-42A9-B419-CF57887DE566}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Events", "Events", "{745FF11E-5A70-4476-9736-D651E9E18BC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.Feature.Events", "src\Feature\Events\code\Sitecore.Feature.Events.csproj", "{95DE0AA0-6CFD-4C63-85BC-CD67D34B0531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +38,10 @@ Global
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DE0AA0-6CFD-4C63-85BC-CD67D34B0531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DE0AA0-6CFD-4C63-85BC-CD67D34B0531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DE0AA0-6CFD-4C63-85BC-CD67D34B0531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DE0AA0-6CFD-4C63-85BC-CD67D34B0531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,5 +49,10 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9D180712-0180-4814-95C8-C9A0732EC28D} = {6F81D5A7-DD8E-40CF-A696-7E14B6309CD0}
 		{4A74623C-08D4-4984-A7A5-E482AF0B0630} = {9D180712-0180-4814-95C8-C9A0732EC28D}
+		{745FF11E-5A70-4476-9736-D651E9E18BC4} = {517E49C4-A000-42A9-B419-CF57887DE566}
+		{95DE0AA0-6CFD-4C63-85BC-CD67D34B0531} = {745FF11E-5A70-4476-9736-D651E9E18BC4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE085B5-7680-4E39-AAAC-1E684F600008}
 	EndGlobalSection
 EndGlobal
