@@ -4,14 +4,70 @@ Parent: "29e1c8ee-f483-4f97-80cb-10bcc0ade29e"
 Template: "d8f81039-14db-4820-91ab-61f02046d848"
 Path: /sitecore/content/Group/Home/Events/Helix Workshop
 DB: master
+SharedFields:
+- ID: "002d2bc2-22fb-4c43-a2fc-6402cced9a3c"
+  Hint: Event Date
+  Value: 20190311T130100Z
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        Vester Farimagsgade 3
+        1606 København V, Denmark
+    - ID: "066b3dd9-6ee2-4f16-b6ed-34e104bfc18d"
+      Hint: Event Venue Address
+      Value: |
+        Vester Farimagsgade 3
+        1606 København V, Denmark
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190311T122132Z
+    - ID: "4c2113f7-28ee-47bc-972b-5435e2cfd9ef"
+      Hint: Event Description
+      Value: |
+        Pretty soon we will be chasing down over due library books.<br />
+        <br />
+        Master Wayne, you've been gone a long time. You look very fashionable. Apart from the mud.<br />
+        <br />
+        Bats frighten me. It's time my enemies shared my dread.<br />
+        <br />
+        You care about justice? Look beyond your own pain, Bruce. This city is rotting.<br />
+        <br />
+        Just know that there are those of us who care about what you do with your future.<br />
+        <br />
+        I speak for the rest of the board and Mr Wayne, in expressing our own excitement.<br />
+        <br />
+        But no ordinary child, a child born in hell, forged from suffering, hardened by pain. Not a man from privilege.<br />
+        <br />
+        Batman may have made the front page but Bruce Wayne got pushed to page eight.<br />
+        <br />
+        Because some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned or negotiated with. Some men just wanna watch the world burn.<br />
+        <br />
+        I had a vision of a world without Batman. The Mob ground out a little profit and the police tried to shut them down one block at a time. And it was so boring. I've had a change of heart. I don't want Mr Reese spoiling everything but why should I have all the fun? Let's give someone else a chance. If Coleman Reese isn't dead in 60 minutes then I blow up a hospital.<br />
+        <br />
+        You have inspired good. But you spat in the faces of Gotham's criminals. Didn't you think there might be casualties? Things always get worse before they get better.<br />
+        <br />
+        Now choice is yours: exile or death?<br />
+        <br />
+        Search him. Then I will kill you.<br />
+        <br />
+        All creatures feel fear. Especially the scary ones.&nbsp;
     - ID: "61bf64e9-9b12-40d7-94e5-ebd7e14f567b"
       Hint: Event Title
       Value: Helix Workshop
+    - ID: "76262186-b8d1-4bd9-9228-6ebda9430605"
+      Hint: Event Venue
+      Value: Sitecore Office
+    - ID: "ca0479ce-0bfe-4522-83de-ba688b380a78"
+      Hint: BrowserTitle
+      Value: Helix Workshop
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Helix Workshop
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "-33.896927050657524,150.1606015625"

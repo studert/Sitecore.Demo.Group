@@ -1,6 +1,6 @@
 ﻿using Sitecore.Data;
 
-namespace code
+namespace Sitecore.Feature.Events
 {
   public struct Templates
   {

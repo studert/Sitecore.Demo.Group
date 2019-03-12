@@ -1,0 +1,18 @@
+﻿---
+ID: "1f2bb9b7-14fa-4651-b5d9-025f3a39a9c3"
+Parent: "177b13b8-b54d-48b3-8de9-1cbb222a9016"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Feature/Events/Event Content
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /views/events/eventcontent.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190311T124551Z
